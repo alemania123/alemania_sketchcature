@@ -16,6 +16,10 @@ function Contact() {
           marginwidth="0"
         ></iframe>
       </div>
+      <div>
+        <p>Text or call us : 091234567890</p>
+        <p>Feel free to give us text or a call with any questions, comments, or concerns. We're here for you! </p>
+      </div>
     </div>
   );
 }
